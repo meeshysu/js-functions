@@ -40,3 +40,5 @@ const printToDom = (stringToPrint, divId) => {
 numberAdder(22);
 numberAdder(2);
 
+//function atomicNumber takes in a number and returns the number plus 5. input = 14 and output = 19.
+
