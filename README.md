@@ -3,7 +3,7 @@
 This project is an exploration of JavaScript functions. I built an animal nuggetizer and printed some numbers to the DOM. 
 
 ## Screenshots 
-![mains screenshot](./screenshots/js-functions-main.png)
+![mains screenshot](./screenshots/js-functions-main.PNG)
 
 ## How to run this project
 * Use npm to install http-server in your terminal:
